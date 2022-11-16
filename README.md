@@ -1,5 +1,5 @@
 # Apollyon-Universal-Modloader
-*A fast, and easy to use modloader for any Unity Game! Uses Harmony as it's modding API and is compatible with the Unity's API!*
+*A fast, and easy to use modloader for any Unity Game! Uses Harmony as it's modding API and is compatible with the Unity's API! Currently in development*
 
 # How-to-Install
 Dependencies :-
